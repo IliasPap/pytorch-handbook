@@ -73,61 +73,61 @@ thank
 4. [Data loading and preprocessing](chapter2/2.1.4-pytorch-basics-data-loader.ipynb)
 #### Section 2 Deep Learning Basics and Mathematical Principles
 
-[Deep learning basics and mathematical principles] (chapter2/2.2-deep-learning-basic-mathematics.ipynb)
+[Deep learning basics and mathematical principles](chapter2/2.2-deep-learning-basic-mathematics.ipynb)
 
 #### Section 3 Introduction to Neural Networks
 
-[Introduction to Neural Network] (chapter2/2.3-deep-learning-neural-network-introduction.ipynb) Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
+[Introduction to Neural Network](chapter2/2.3-deep-learning-neural-network-introduction.ipynb) Note: This chapter will crash when opened locally with Microsoft Edge, please open Chrome Firefox to view
 
 #### Section 4 Convolutional Neural Network
 
-[Convolutional Neural Network] (chapter2/2.4-cnn.ipynb)
+[Convolutional Neural Network](chapter2/2.4-cnn.ipynb)
 
 #### Section 5 Recurrent Neural Network
 
-[Recurrent Neural Network] (chapter2/2.5-rnn.ipynb)
+[Recurrent Neural Network](chapter2/2.5-rnn.ipynb)
 
 ### Chapter 3 Practice
 #### Section 1 Logistic regression binary classification
 
-[logistic regression binary classification] (chapter3/3.1-logistic-regression.ipynb)
+[logistic regression binary classification](chapter3/3.1-logistic-regression.ipynb)
 
 
 #### Section 2 CNN: MNIST data set handwritten digit recognition
 
-[CNN: Handwritten digit recognition of MNIST dataset] (chapter3/3.2-mnist.ipynb)
+[CNN: Handwritten digit recognition of MNIST dataset](chapter3/3.2-mnist.ipynb)
 
 #### Section 3 RNN Examples: Predicting Cos by Sin
 
-[RNN Example: Predicting Cos by Sin] (chapter3/3.3-rnn.ipynb)
+[RNN Example: Predicting Cos by Sin](chapter3/3.3-rnn.ipynb)
 
 ### Chapter 4 Improvement
 #### Section 1 Fine-tuning
 
-[Fine-tuning] (chapter4/4.1-fine-tuning.ipynb)
+[Fine-tuning](chapter4/4.1-fine-tuning.ipynb)
 
 #### Section 2 Visualization
 
-[visdom] (chapter4 / 4.2.1-visdom.ipynb)
+[visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx] (chapter4/4.2.2-tensorboardx.ipynb)
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
 
-[Visual Understanding Convolutional Neural Network] (chapter4/4.2.3-cnn-visualizing.ipynb)
+[Visual Understanding Convolutional Neural Network](chapter4/4.2.3-cnn-visualizing.ipynb)
 
 #### Section 3 Fast.ai
-[Fast.ai] (chapter4/4.3-fastai.ipynb)
+[Fast.ai](chapter4/4.3-fastai.ipynb)
 #### Section 4 Training Skills
 
 #### Section 5 Multi-GPU Parallel Training
-[Multi-GPU parallel computing] (chapter4/4.5-multiply-gpu-parallel-training.ipynb)
+[Multi-GPU parallel computing](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
 
 ### Chapter 5 Application
 #### Section 1 Introduction to Kaggle
-[Introduction to Kaggle] (chapter5/5.1-kaggle.md)
+[Introduction to Kaggle](chapter5/5.1-kaggle.md)
 #### Section 2 Structured Data
-[Pytorch processing structured data] (chapter5/5.2-Structured-Data.ipynb)
+[Pytorch processing structured data](chapter5/5.2-Structured-Data.ipynb)
 #### Section 3 Computer Vision
-[Fashion MNIST image classification] (chapter5/5.3-Fashion-MNIST.ipynb)
+[Fashion MNIST image classification](chapter5/5.3-Fashion-MNIST.ipynb)
 #### Section 4 Natural Language Processing
 #### Section 5 Collaborative Filtering
 
